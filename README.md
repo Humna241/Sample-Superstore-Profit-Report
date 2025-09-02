@@ -9,11 +9,15 @@
 5.Seasonal Sales Volatility
 
 **Key Matrices:**
+
 Sales: $2.30M 
+
 Profit: $286.40K
+
 Quantity: 38K units
 
 **𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:**
+
 ➞Profit distribution is highly uneven across regions
 ➞Consumer-driven strategies are paying off
 ➞Tech is the main revenue and profit driver
